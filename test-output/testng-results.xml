@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-10T15:37:27 IST" name="Default suite" finished-at="2022-06-10T15:37:40 IST" duration-ms="13635">
+    <groups>
+    </groups>
+    <test started-at="2022-06-10T15:37:27 IST" name="Default test" finished-at="2022-06-10T15:37:40 IST" duration-ms="13635">
+      <class name="pom.P1">
+        <test-method is-config="true" signature="initailizeBrowser()[pri:0, instance:pom.P1@c8c12ac]" started-at="2022-06-10T15:37:27 IST" name="initailizeBrowser" finished-at="2022-06-10T15:37:35 IST" duration-ms="7978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initailizeBrowser -->
+        <test-method is-config="true" signature="intializeBoject()[pri:0, instance:pom.P1@c8c12ac]" started-at="2022-06-10T15:37:35 IST" name="intializeBoject" finished-at="2022-06-10T15:37:35 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeBoject -->
+        <test-method signature="verifyURL()[pri:0, instance:pom.P1@c8c12ac]" started-at="2022-06-10T15:37:35 IST" name="verifyURL" finished-at="2022-06-10T15:37:35 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURL -->
+        <test-method signature="verifybutton()[pri:0, instance:pom.P1@c8c12ac]" started-at="2022-06-10T15:37:35 IST" name="verifybutton" finished-at="2022-06-10T15:37:35 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifybutton -->
+        <test-method signature="verifyLogin()[pri:1, instance:pom.P1@c8c12ac]" started-at="2022-06-10T15:37:35 IST" name="verifyLogin" finished-at="2022-06-10T15:37:40 IST" duration-ms="5285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pom.P1@c8c12ac]" started-at="2022-06-10T15:37:40 IST" name="tearDown" finished-at="2022-06-10T15:37:40 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pom.P1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
